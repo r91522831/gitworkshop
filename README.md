@@ -1,4 +1,4 @@
-# Git Workshop Readme
+# Git Workshop
 # This is the readme file for the git workshop.
 
 **Dependencies**
